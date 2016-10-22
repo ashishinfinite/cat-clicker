@@ -1,0 +1,26 @@
+*{
+	box-sizing: border-box;
+	
+}
+
+.image{
+width:50%;
+float:left;
+}
+
+img
+{
+
+	width:100%;
+}
+.image{
+	border: 1px red solid;
+    
+}
+#count{
+	width:50%;
+}
+p{
+	
+	text-align :center;
+}
